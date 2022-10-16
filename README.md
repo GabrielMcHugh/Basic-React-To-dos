@@ -1,1 +1,1 @@
-"# Basic-React-To-dos"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/GabrielMcHugh/Basic-React-To-dos.git git push -u origin main
+A basic Todo list to refresh the React framework for myself

@@ -6,7 +6,7 @@ A basic React to-do app following this [guide](https://ibaslogic.com/react-tutor
 - Integrating form
 - Uncontrolled vs controlled input
 - 'Single Source of Truth'
-- Raising and handling events: **climbing the state ladder**
+- Raising and handling events: ***climbing the state ladder***
 - setState()
 - Use an updater function in setState
   `this.setState( prevState => {... React does not garuntee this.state is up to date in setState`

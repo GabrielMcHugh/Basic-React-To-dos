@@ -1,1 +1,1 @@
-A basic Todo list to refresh the React framework for myself
+A basic React to-do app following this [guide] (https://ibaslogic.com/react-tutorial-for-beginners/#thinking-in-react-component)

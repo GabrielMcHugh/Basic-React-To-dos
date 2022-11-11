@@ -14,4 +14,4 @@ A basic React to-do app following this [guide](https://ibaslogic.com/react-tutor
   `this.setState( prevState => {... React does not garuntee this.state is up to date in setState`
 - Raising an event in child vs calling a handler passed as props from parent
 
-so far up to [How to add CSS in Reactjs App](https://ibaslogic.com/css-in-reactjs-app/)
+so far up to [How to add CSS in Reactjs App](https://ibaslogic.com/css-in-reactjs-app/) - Inline styling
